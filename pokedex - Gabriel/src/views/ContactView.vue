@@ -9,7 +9,7 @@
     <p class="text-center py-6 text-xl font-bold text-gray-500">Gabriel De Lima Da Silva</p>
     <h1 class="text-center py-3 text-3xl font-bold text-gray-600">RA:</h1>
     <p class="text-center py-6 text-xl font-bold text-gray-500">2010987</p>
-
     <a href="https://www.linkedin.com/in/gabriel-de-lima-da-silva-5a2aa030a/" class="flex justify-center py-7 text-3xl font-bold text-gray-600">LinkedIn</a>
+    <a href="https://github.com/KittoXD/Pokedex.git" class="flex justify-center py-7 text-3xl font-bold text-gray-600">GitHub</a>
   </div>
 </template>
